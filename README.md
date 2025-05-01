@@ -1,1 +1,1 @@
-# resume_builder-project
+ResuCraft is a sleek and modern online resume builder that helps users create professional resumes in minutes. With an intuitive design and recruiter-tested templates, job seekers can easily stand out in today’s competitive market.# resume_builder-project
